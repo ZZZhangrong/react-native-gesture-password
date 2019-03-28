@@ -289,8 +289,8 @@ GesturePassword.propTypes = {
 
 GesturePassword.defaultProps = {
     message: '',
-    normalColor: '#5FA8FC',
-    rightColor: '#5FA8FC',
+    normalColor: '#8A89D5',
+    rightColor: '#8A89D5',
     wrongColor: '#D93609',
     status: 'normal',
     interval: 0,
